@@ -2,5 +2,4 @@
 # WebApps-F25-Assignment-4
 A practice assignment for HTML with CSS
 
-Link:
-https://github.com/44-563-WebApps-F25/webapps-f25-assignment4-dgreenlee2015.git
+Hosted at: https://44-563-webapps-f25.github.io/webapps-f25-assignment4-dgreenlee2015/
