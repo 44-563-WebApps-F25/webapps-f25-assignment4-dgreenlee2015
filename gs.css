@@ -33,14 +33,29 @@
     color : lightsalmon;
 }
 .tessa {
-    color: blue;
+    color : blue;
 }
 .duke {
-    color: purple;
+    color : purple;
 }
 .gianetta{
-    color: hotpink;
+    color : hotpink;
 }
 .chorus {
-    color: darkslategray;
+    color : darkslategray;
+}
+table {
+    border : solid 3px;
+    overflow : auto;
+    border-collapse : collapse;
+    margin : 20px;
+}
+td, th {
+    border: solid 2px;
+    text-align: center;
+    color : black;
+    padding : 5px;
+}
+tr:nth-child(odd) {
+    background-color : #eeeeee;
 }
